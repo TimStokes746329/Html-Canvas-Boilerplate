@@ -9,6 +9,7 @@
   "author": "Timothy Stokes",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.1"
+    "express": "^4.16.1",
+    "webpack": "^3.6.0"
   }
 }

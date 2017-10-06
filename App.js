@@ -10,5 +10,5 @@ app.use(express.static(path.join(__dirname, 'Public')));
 // Listen for requests
 var server = app.listen(app.get('port'), function() {
   var port = server.address().port;
-  console.log('Magic happens on port ' + port);
+  console.log('Project hosted on port ' + port);
 });
